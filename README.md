@@ -1,4 +1,4 @@
-## Hi! My name is Tim
+## Hi! My name is Tim.
 
 I love building products from scratch, owning everything from design to code. I'm currently studying an MSc in Computing at Imperial.
 
